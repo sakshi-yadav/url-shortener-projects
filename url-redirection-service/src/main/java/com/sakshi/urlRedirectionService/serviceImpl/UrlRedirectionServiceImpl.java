@@ -16,7 +16,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Objects;
 
-import static com.sakshi.urlRedirectionService.launcher.ShortenUrlSQLQuery.GET_URL_ENTITY_BY_CODE;
+import static com.sakshi.urlRedirectionService.query.ShortenUrlSQLQuery.GET_URL_ENTITY_BY_CODE;
 
 
 @Service
