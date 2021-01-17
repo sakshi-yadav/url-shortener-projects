@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f031648e-bb28-4887-af00-4857f3fa4997" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cloud-config" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-config" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />

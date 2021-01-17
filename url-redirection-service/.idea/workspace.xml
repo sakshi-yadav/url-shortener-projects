@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0e49c4f-4430-4be1-aee9-fbea4517d5ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../cloud-config" beforeDir="false" afterPath="$PROJECT_DIR$/../cloud-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../apiGateway/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../apiGateway/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../common-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../common-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eureka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../eureka/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -247,12 +250,12 @@
       <workItem from="1610700784969" duration="34431000" />
       <workItem from="1610871783380" duration="6503000" />
       <workItem from="1610878381733" duration="2225000" />
-      <workItem from="1610884195791" duration="2827000" />
+      <workItem from="1610884195791" duration="2905000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="165545000" />
+    <option name="totallyTimeSpent" value="165623000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c1cdcae-3ab0-4b29-a22a-b68ff4fe5d93" name="Default Changelist" comment="" />
+    <list default="true" id="0c1cdcae-3ab0-4b29-a22a-b68ff4fe5d93" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cloud-config/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config/cloud-config.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config/target/classes/com/loando/cloudconfig/CloudConfigApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud-config/target/test-classes/com/loando/cloudconfig/CloudConfigApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-config/.gitignore" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +44,11 @@
             <path>
               <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
               <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="cloud-config" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -73,12 +86,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610891896636</updated>
-      <workItem from="1610891898867" duration="586000" />
+      <workItem from="1610891898867" duration="909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="586000" />
+    <option name="totallyTimeSpent" value="909000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="34" width="1920" height="972" extended-state="6" />
